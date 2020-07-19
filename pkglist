@@ -313,6 +313,7 @@ linux-firmware-network
 linux-firmware-nvidia
 linux5.3
 linux5.7
+lm_sensors
 lvm2
 lxappearance
 lxdm
